@@ -3,7 +3,7 @@ import adivinhacao
 
 print("*********************************")
 print("********Escolha seu Jogo!********")
-print("*********************************")
+print("*********************************\n")
 
 print("(1) Forca (2) Adivinhação")
 
